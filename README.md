@@ -15,8 +15,8 @@ source code and documentation for the FOODMART application, which includes featu
 - **Frontend: Streamlit**
 
 ### Install dependencies
-cd FOODMART
+cd FOODMART  
 pip install -r requirements.txt
 
-Run the application:
+Run the application:  
 streamlit run app.py
